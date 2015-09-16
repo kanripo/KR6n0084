@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:01.934485
+#+DATE: 2015-08-30 20:58:03.166838
 #+TITLE: 六門教授習定論
 #+PROPERTY: CBETA_ID T31n1607
 #+PROPERTY: ID KR6n0084
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1607
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0084_T_000-0774a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0084_T_001-0774a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1607¶
-
- 《六門教授習定論》一卷¶
+No. 1607¶
+《六門教授習定論》一卷¶
 ¶
 無著菩薩本世親菩薩釋¶
 三藏法師義淨奉　制譯¶

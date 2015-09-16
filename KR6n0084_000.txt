@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 六門教授習定論
+#+DATE: 2015-08-30 20:58:02.158595
+#+PROPERTY: JUAN 0
